@@ -51,7 +51,8 @@ https://vercel.com/vadiicoders-projects/project_nest_01/Fcc2e48mwt2Xh6xkzowkD26U
 
 ## 🤩 preview live
 
-<img width="1130" height="630" alt="Screenshot 2026-05-08 103506" src="https://github.com/user-attachments/assets/0cb5da88-9499-4d5a-ac35-168ac7782215" />
+<img width="1130" height="630" alt="Screenshot 2026-05-08 103506" src="https://github.com/vadiiCoder/ProjectNest/blob/main/ProjectNest.png" />
+
 
 
 ---
